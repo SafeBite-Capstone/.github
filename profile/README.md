@@ -12,3 +12,6 @@ Team members :
 - Nadda Zafira A W        | M181DSY1311 - Machine Learning
 - Annisa Safa             | M125DKY4788 - Machine Learning
 - Ni Made Dewi Handayani  | M037DSY3729 - Machine Learning
+
+
+Link to download the app : https://bit.ly/Download-SafeBite
