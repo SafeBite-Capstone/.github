@@ -1,6 +1,6 @@
 ## Bangkit Academy 2023 Batch 1 Capstone Project
 
-Team ID : C23-PS249
+Team ID : C23-PR496 
 
 # What is SafeBite ?
 We are developing an innovative food composition monitoring application that not only provides information on potential allergies and diseases, but also includes features to help Muslim users identify halal food choices.
