@@ -14,6 +14,6 @@ Team members :
 - Ni Made Dewi Handayani  | M037DSY3729 - Machine Learning
 
 
-Link to download the app : [https://bit.ly/SafeBite-apk-download](https://bit.ly/SafeBite-apk-download)
+Link to download the app : [Download SafeBite-apk](https://drive.google.com/file/d/1YmvomaIlE7i2Gk1pFA1JmqiQIyIKUawZ/view)
 
 *More detail check the pinned repository*
