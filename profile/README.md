@@ -15,3 +15,5 @@ Team members :
 
 
 Link to download the app : https://bit.ly/Download-SafeBite
+
+*More detail check the pinned repository*
